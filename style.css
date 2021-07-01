@@ -1,0 +1,151 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    width: 400px;
+  }
+  .headerColor {
+      background-color: #ffdcee !important;
+    
+  }
+
+  .nav-item {
+    margin: 0px 15px;
+  }
+  /* Navigation dropdown menu */
+ 
+  
+  /* Navigation links */
+  .customNav a {
+    color: black !important;
+  }
+  .navCTA {
+    font-size: 15px;
+  }
+.headerImage {
+    background-image: url(img/cover.jpg);
+    width: 1555px;
+    height: 500px;
+}
+.fiore {
+    font-family: ohno-blazeface, sans-serif;
+
+font-weight: 100;
+
+font-style: normal;
+color: #f48aba;
+padding-top: 10px;
+font-size: 46px;
+}
+
+.headerFont{ 
+font-family: ohno-blazeface, sans-serif;
+
+font-weight: 100;
+
+font-style: normal;
+}
+.bigFont {
+    text-align: center;
+    font-size: 64px;
+}
+.italicFont {
+
+
+font-family: ohno-blazeface, sans-serif;
+
+font-weight: 100;
+
+font-style: italic;
+
+font-size: 28px;
+}
+.smallHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+
+font-weight: 100;
+
+font-style: normal;
+}
+.logoFont{
+    font-family: ohno-blazeface, sans-serif;
+    font-size: 28px;
+
+font-weight: 100;
+
+font-style: normal;
+color: #f48aba;
+padding-left: 60px;
+
+
+}
+.navbar-brand img {
+    padding-right: 15px;
+    width: 100px;
+}
+
+.pinkButton {
+    background-color:#fd361f;
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;
+    box-shadow: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.pinkButton:hover{
+    color: white;
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    background-color: #f48aba;
+    border-color: #f48aba;  
+    border-radius: 20px;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;
+}
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #fd361f;
+    border-color: #fd361f;
+}
+
+
+.customNav{
+    color: #fd361f;
+}
+
+.customNav a {
+    color: #f48aba !important;
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.customNav a:hover{
+    color: #fd361f;
+}
+.fw-bolder {
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #f48aba;
+}
+.pinkFooter{
+    background-color: #f48aba !important;
+}
